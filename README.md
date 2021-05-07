@@ -62,7 +62,7 @@
 
 [![IntelliJ IDEA Badge](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white)]()
 [![Android Studio Badge](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=Android%20Studio&logoColor=white)]()
-[![Visual Studio Code Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code%20IDEA&logoColor=white)]()
+[![Visual Studio Code Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white)]()
 [![Eclipse IDE Badge](https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white)]()
 [![Sublime Text Badge](https://img.shields.io/badge/-Sublime%20Text-FF9800?style=flat&logo=Sublime%20Text&logoColor=white)]()
 [![Microsoft Office Badge](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat&logo=Microsoft%20Office&logoColor=white)]()
